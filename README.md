@@ -1,3 +1,4 @@
+
 # HW_3
 
 GitHub Repository Link: https://github.com/aungy5/HW_3
@@ -42,3 +43,7 @@ This is where the password will be generated. The random combination of numbers,
 Copy Button:
 This enables the user to copy the password to their clipboard. 
 
+Screenshots:
+
+<img width="1437" alt="Screen Shot 2021-07-29 at 10 52 59 PM" src="https://user-images.githubusercontent.com/81643749/127592799-42398d16-d3cb-4979-901a-6360e288aef2.png">
+<img width="1422" alt="Screen Shot 2021-07-29 at 10 53 30 PM" src="https://user-images.githubusercontent.com/81643749/127592808-ae6f1029-5a56-4877-8634-426eea7e46a5.png">
